@@ -1,0 +1,26 @@
+{
+  "name": "yc-http-code",
+  "version": "0.0.2",
+  "description": "yc tool for error http-code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yc-team/yc-http-code.git"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "yc",
+    "tool",
+    "http",
+    "code"
+  ],
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/yc-team/yc-http-code/issues"
+  }
+}
